@@ -156,9 +156,7 @@ const Home = ({ home, provider, account, escrow, togglePop }) => {
                                 </button>
                             )}
 
-                            <button className='home__contact'>
-                                Contact agent
-                            </button>
+                            
                         </div>
                     )}
 

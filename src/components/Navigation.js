@@ -1,5 +1,5 @@
 import { ethers } from 'ethers';
-import logo from '../assets/estate3.jpeg';
+import logo from '../assets/estate7.png';
 
 const Navigation = ({ account, setAccount }) => {
     const connectHandler = async () => {
