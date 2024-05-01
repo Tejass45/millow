@@ -1,12 +1,9 @@
 const Search = () => {
     return (
         <header>
-            <h2 className="header__title">Search it. Explore it. Buy it.</h2>
-            <input
-                type="text"
-                className="header__search"
-                placeholder="Enter an address, neighborhood, city, or ZIP code"
-            />
+            <h1 className="header__title">
+
+                Transforming Property Transactions, One Block at a Time.</h1>
         </header>
     );
 }

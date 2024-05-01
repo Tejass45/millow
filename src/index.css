@@ -10,8 +10,8 @@
   --clr-white: #FFFFFF;
   --clr-black: #202020;
   --clr-grey: #707070;
-  --clr-blue: #6C63FF;
-  --clr-blue-2: #4c46b6;
+  --clr-blue: #191414;
+  --clr-blue-2: #f70f0f;
   --clr-green: #4fb646;
 }
 
@@ -98,22 +98,23 @@ nav {
 /* -- HEADER -- */
 
 header {
-  background-image: url("./assets/houses.png");
+  background-image: url("./assets/estate2.jpg");
   background-position: center;
   background-size: cover;
-  min-height: 40vh;
+  min-height: 50vh;
 
   position: relative;
 }
 
+
 .header__title {
   position: absolute;
-  top: 25%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 
   color: var(--clr-white);
-  font-size: 2em;
+  font-size: 3em;
 
   width: 100%;
   text-align: center;
